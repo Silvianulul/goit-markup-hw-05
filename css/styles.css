@@ -640,3 +640,8 @@
   background-color: #404bbf;
   border: none;
 }
+
+.modal-window-svg:hover,
+.modal-window-button:focus {
+  fill: #ffffff;
+}
