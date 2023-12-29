@@ -74,6 +74,11 @@
   gap: 40px;
 }
 
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+
 .link {
   text-decoration: none;
 }
