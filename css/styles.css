@@ -117,14 +117,6 @@
   padding: 24px 0;
 }
 
-.link:hover {
-  color: #404bbf;
-}
-
-.link:focus {
-  color: #404bbf;
-}
-
 .adress-style {
   font-style: normal;
 }
