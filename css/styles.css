@@ -591,6 +591,15 @@
   transform: translateY(0%);
 }
 
+.portfolio-transition-div {
+  position: relative;
+  overflow: hidden;
+}
+
+.portfolio-transition-paragraph {
+  position: absolute;
+}
+
 .is-hidden {
   opacity: 0;
   visibility: hidden;
