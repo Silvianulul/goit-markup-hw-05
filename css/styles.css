@@ -600,6 +600,9 @@
 .portfolio-transition-div {
   position: relative;
   overflow: hidden;
+  width: 360px;
+  height: 300px;
+  flex-shrink: 0;
 }
 
 .portfolio-transition-paragraph {
